@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://ananzmzm.github.io/hugo-online-workshop"
 languageCode = "en-us"
 title = "hugo online workshop"
 theme = "hugo-theme-learn"
