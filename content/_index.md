@@ -1,8 +1,8 @@
 ---
-title = "Klaytn - CCO Onboarding Instruction - Pre-cypress"
-date = 2022-07-05T15:36:45+09:00
-weight = 0
-pre = "<b>0. </b>"
+title: "Klaytn - CCO Onboarding Instruction - Pre-cypress"
+date: 2022-07-05T15:36:45+09:00
+weight: 0
+pre: "<b>0. </b>"
 ---
 
 ### Klaytn - CCO Onboarding Instruction - Pre-cypress
