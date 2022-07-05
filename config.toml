@@ -1,5 +1,5 @@
-baseURL = ''
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = ""
+languageCode = "en-us"
+title = "hugo online workshop"
 theme = "hugo-theme-learn"
 uglyurls = true
