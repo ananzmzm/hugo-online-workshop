@@ -1,4 +1,5 @@
-baseURL = 'https://ananzmzm.github.io/cco-onboarding-pre-cypress'
+baseURL = 'https://ananzmzm.github.io/hugo-online-workshop'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-learn"
+uglyurls = true
