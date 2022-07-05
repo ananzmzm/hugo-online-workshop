@@ -1,10 +1,10 @@
-+++
+---
 title = "Complete the prerequisites"
 date = 2022-07-05T15:47:19+09:00
 weight = 10
 chapter = true
 pre = "<b>1. </b>"
-+++
+---
 
 ### Klaytn - CCO Onboarding - Pre-cypress
 ![Klaytn Logo](/images/Logo-1.png?classes=border)
