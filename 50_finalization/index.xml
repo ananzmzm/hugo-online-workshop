@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>50_finalization on hugo online workshop</title><link>/50_finalization.html</link><description>Recent content in 50_finalization on hugo online workshop</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 16:00:39 +0900</lastBuildDate><atom:link href="/50_finalization/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>50_finalization on hugo online workshop</title>
+    <link>/hugo-online-workshop/50_finalization.html</link>
+    <description>Recent content in 50_finalization on hugo online workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 16:00:39 +0900</lastBuildDate><atom:link href="/hugo-online-workshop/50_finalization/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
