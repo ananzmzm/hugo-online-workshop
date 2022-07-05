@@ -51,7 +51,5 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Lanugages]
 [Lanugages.en]
-...
 landingPageURL = "/en"
 landingPageName = "<i class='fas fa-home'></i> Redirect to Home"
-...
